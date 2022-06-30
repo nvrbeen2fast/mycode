@@ -1,6 +1,6 @@
 # mycode (Python Basics)
 
-I am taking a python course to learn scripting and how to apply it to programs.
+I am taking a python course to learn scripting and how to apply it to programs. This was executed from an external terminal.
 
 ## Getting Started
 
